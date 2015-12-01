@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>488434C2-65A8-42C1-AE84-E85FE3252846</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7FF49A5CB43B3B9B8D888B8379123CF699E6F5A2</key>
+		<string>https://github.com/graylam/ios-sandbox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>teamtreehouse/StructEnumFinalExam.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7FF49A5CB43B3B9B8D888B8379123CF699E6F5A2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/graylam/ios-sandbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7FF49A5CB43B3B9B8D888B8379123CF699E6F5A2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FF49A5CB43B3B9B8D888B8379123CF699E6F5A2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-sandbox</string>
+		</dict>
+	</array>
+</dict>
+</plist>
